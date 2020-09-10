@@ -1,5 +1,5 @@
 ## Motivação
-Projeto de inteligencia artificial(IA), se baseando na poda alpha beta. Fizemos se baseando não é exatamente alpha beta.
+Projeto de inteligencia artificial(IA), se baseando na poda alpha beta. Fizemos se baseando não é exatamente a poda alpha beta.
 
 ## Detalhes
 Comentarios em ingles feito pelo desenvolvedor original do jogo-> https://github.com/parkershamblin/checkers-pygame
